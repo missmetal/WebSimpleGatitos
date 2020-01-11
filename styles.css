@@ -3,8 +3,12 @@ body {
 }
 
 em {
+    color:white;
+}
+
+em {
     margin: 30px;
-    background-color: pink;
+    background-color: black;
 }
 
 img {
@@ -17,7 +21,7 @@ img {
 
 #grilla {
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -31,4 +35,12 @@ img {
 
 #pepe {
     border: 2px solid blue;
+}
+
+header {
+    padding-top: 20px;
+}
+
+.c {
+    text-align: center; 
 }
