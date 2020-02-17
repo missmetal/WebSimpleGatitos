@@ -30,11 +30,11 @@ img {
 }
 
 #leon {
-    border: 2px solid blue;
+    border: 2px solid red;
 }
 
 #pepe {
-    border: 2px solid blue;
+    border: 3px dotted greenyellow;
 }
 
 header {
