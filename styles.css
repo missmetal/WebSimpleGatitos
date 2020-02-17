@@ -12,11 +12,11 @@ em {
 }
 
 img {
-    width: 500px;
+    width: 450px;
     height: 350px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    padding: 5px;
+    padding: 7px;
 }
 
 #grilla {
@@ -30,11 +30,12 @@ img {
 }
 
 #leon {
-    border: 2px solid blue;
+    border: 2px solid red;
 }
 
 #pepe {
     border: 2px solid blue;
+    
 }
 
 header {
