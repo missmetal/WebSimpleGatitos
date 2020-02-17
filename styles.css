@@ -3,7 +3,7 @@ body {
 }
 
 em {
-    color:white;
+    color:black;
 }
 
 em {
@@ -43,4 +43,8 @@ header {
 
 .c {
     text-align: center; 
+}
+
+.epigrafe{
+    background-color: palevioletred;
 }
