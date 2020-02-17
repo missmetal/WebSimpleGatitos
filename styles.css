@@ -44,3 +44,8 @@ header {
 .c {
     text-align: center; 
 }
+
+p{
+    color: green;
+    font-weight: bold;
+}
